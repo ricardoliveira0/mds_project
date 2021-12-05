@@ -16,3 +16,13 @@
   * 2a. Falha no *login*.
     * *Username* não encontrado;
     * *Password* incorreta.
+\
+&nbsp;
+## Submeter propostas de estágio
+* **Main Actor:** Responsável da empresa
+* **Main Success Scenario:** 
+  1. Efetuar login;
+  2. Clicar no botão *propostas*;
+  3. Clicar no botão *realizar submissão*;
+  4. Introduzir nos *fields* todas as informações referentes à proposta;
+* **Extensions:** 
