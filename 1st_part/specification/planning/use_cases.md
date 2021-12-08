@@ -1,5 +1,5 @@
 ## Signup
-* **Main Actor:** Docente da UC, Responsável da empresa, Aluno, Tutor, Orientador.  
+* **Main Actors:** Docente da UC, Responsável da empresa, Aluno, Tutor, Orientador.  
 * **Main Success Scenario:** 
   1. Clicar no botão ***signup***;
   2. Preencher os *fields* obrigatórios;
@@ -7,7 +7,7 @@
 \
 &nbsp;
 ## Login
-* **Main Actor:** Docente da UC, Responsável da empresa, Aluno, Tutor, Orientador.  
+* **Main Actors:** Docente da UC, Responsável da empresa, Aluno, Tutor, Orientador.  
 * **Main Success Scenario:** 
   1. Preencher as credenciais de acesso;
   2. Clicar no botão ***login***;
@@ -19,7 +19,7 @@
 \
 &nbsp;
 ## Submissão de propostas de estágio
-* **Main Actor:** Responsável da empresa
+* **Main Actor:** Responsável da empresa.
 * **Main Success Scenario:** 
   1. Efetuar *login*;
   2. Clicar no botão ***propostas***;
@@ -32,7 +32,7 @@
 \
 &nbsp;
 ## Aprovação de propostas de estágio
-* **Main Actor:** Docente da UC
+* **Main Actor:** Docente da UC.
 * **Main Success Scenario:** 
   1. Efetuar *login*;
   2. Clicar no botão ***propostas***;
@@ -47,7 +47,7 @@
 \
 &nbsp;
 ## Realizar candidatura
-* **Main Actor:** Aluno
+* **Main Actor:** Aluno.
 * **Main Success Scenario:** 
   1. Efetuar *login*;
   2. Clicar no botão ***propostas***;
@@ -68,7 +68,7 @@
 \
 &nbsp;
 ## Seriação de candidatos às propostas de estágio
-* **Main Actor:** Responsável da empresa
+* **Main Actor:** Responsável da empresa.
 * **Main Success Scenario:** 
   1. Efetuar *login*;
   2. Clicar no botão ***propostas***;
@@ -97,7 +97,7 @@
 \
 &nbsp;
 ## Atribuir estágio a Aluno
-* **Main Actor:** Docente da UC
+* **Main Actor:** Docente da UC.
 * **Main Success Scenario:** 
   1. Efetuar *login*;
   2. Clicar no botão ***propostas***;
@@ -131,7 +131,7 @@
 \
 &nbsp;
 ## Avaliar Aluno
-* **Main Actor:** Docente da UC, Orientador, Tutor
+* **Main Actors:** Docente da UC, Orientador, Tutor.
 * **Main Success Scenario:** 
   1. Efetuar *login*;
   2. Clicar no botão ***estágios***;
@@ -153,5 +153,3 @@
   * 6a. Nenhum aluno listado.
     * O estágio pode ter sido cancelado;
     * O Aluno pode ter desistido do estágio.
-
-  
